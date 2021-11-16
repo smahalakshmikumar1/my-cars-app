@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1637046875490" clover="3.2.0">
+  <project timestamp="1637046875490" name="All files">
+    <metrics statements="235" coveredstatements="162" conditionals="46" coveredconditionals="34" methods="85" coveredmethods="43" elements="366" coveredelements="239" complexity="0" loc="235" ncloc="235" packages="15" files="29" classes="29"/>
+    <package name="src">
+      <metrics statements="14" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+      <file name="App.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/App.js">
+        <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+      </file>
+      <file name="constants.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/constants.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="8" type="stmt"/>
+      </file>
+      <file name="index.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/index.js">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.UI">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="HeaderSection.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/UI/HeaderSection.js">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="10" count="8" type="stmt"/>
+        <line num="11" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.UI.cardComponent">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="CardComponent.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/UI/cardComponent/CardComponent.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="9" count="18" type="stmt"/>
+        <line num="10" count="14" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.UI.header">
+      <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="1"/>
+      <file name="Header.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/UI/header/Header.js">
+        <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="1"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="9" count="8" type="stmt"/>
+        <line num="10" count="8" type="stmt"/>
+        <line num="12" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.UI.itemDescriptionComponent">
+      <metrics statements="3" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="ItemDescriptionComponent.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/UI/itemDescriptionComponent/ItemDescriptionComponent.js">
+        <metrics statements="3" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.UI.loadingIndicator">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="LoadingIndicator.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/UI/loadingIndicator/LoadingIndicator.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.UI.modal">
+      <metrics statements="7" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="modal.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/UI/modal/modal.js">
+        <metrics statements="7" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api">
+      <metrics statements="7" coveredstatements="7" conditionals="3" coveredconditionals="3" methods="3" coveredmethods="3"/>
+      <file name="api.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/api/api.js">
+        <metrics statements="7" coveredstatements="7" conditionals="3" coveredconditionals="3" methods="3" coveredmethods="3"/>
+        <line num="3" count="7" type="stmt"/>
+        <line num="12" count="7" type="cond" truecount="1" falsecount="0"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="22" count="7" type="cond" truecount="1" falsecount="0"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="32" count="7" type="cond" truecount="1" falsecount="0"/>
+        <line num="33" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.myDetails">
+      <metrics statements="18" coveredstatements="11" conditionals="4" coveredconditionals="2" methods="11" coveredmethods="4"/>
+      <file name="MyDetails.child.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/components/myDetails/MyDetails.child.js">
+        <metrics statements="9" coveredstatements="4" conditionals="4" coveredconditionals="2" methods="6" coveredmethods="1"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+      </file>
+      <file name="MyDetails.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/components/myDetails/MyDetails.js">
+        <metrics statements="9" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="3"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.myMakes">
+      <metrics statements="24" coveredstatements="19" conditionals="4" coveredconditionals="3" methods="11" coveredmethods="6"/>
+      <file name="MyMakes.child.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/components/myMakes/MyMakes.child.js">
+        <metrics statements="12" coveredstatements="8" conditionals="4" coveredconditionals="3" methods="6" coveredmethods="2"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="26" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="31" count="3" type="stmt"/>
+        <line num="33" count="3" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="49" count="10" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+      </file>
+      <file name="MyMakes.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/components/myMakes/MyMakes.js">
+        <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="4"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.myModels">
+      <metrics statements="26" coveredstatements="20" conditionals="4" coveredconditionals="2" methods="11" coveredmethods="6"/>
+      <file name="MyModels.child.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/components/myModels/MyModels.child.js">
+        <metrics statements="12" coveredstatements="8" conditionals="4" coveredconditionals="2" methods="6" coveredmethods="2"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="28" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="52" count="4" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+      </file>
+      <file name="MyModels.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/components/myModels/MyModels.js">
+        <metrics statements="14" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="4"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.myVehicles">
+      <metrics statements="21" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="1"/>
+      <file name="MyVehicles.child.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/components/myVehicles/MyVehicles.child.js">
+        <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+      </file>
+      <file name="MyVehicles.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/components/myVehicles/MyVehicles.js">
+        <metrics statements="15" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.redux.actions">
+      <metrics statements="64" coveredstatements="61" conditionals="3" coveredconditionals="3" methods="18" coveredmethods="15"/>
+      <file name="ModelActions.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/components/redux/actions/ModelActions.js">
+        <metrics statements="15" coveredstatements="15" conditionals="1" coveredconditionals="1" methods="5" coveredmethods="5"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="32" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="33" count="3" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="42" count="3" type="stmt"/>
+        <line num="50" count="2" type="stmt"/>
+        <line num="51" count="9" type="stmt"/>
+      </file>
+      <file name="actionTypes.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/components/redux/actions/actionTypes.js">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="14" type="stmt"/>
+        <line num="3" count="14" type="stmt"/>
+        <line num="4" count="14" type="stmt"/>
+        <line num="7" count="14" type="stmt"/>
+        <line num="8" count="14" type="stmt"/>
+        <line num="9" count="14" type="stmt"/>
+        <line num="12" count="14" type="stmt"/>
+        <line num="13" count="14" type="stmt"/>
+        <line num="14" count="14" type="stmt"/>
+        <line num="17" count="14" type="stmt"/>
+        <line num="18" count="14" type="stmt"/>
+        <line num="19" count="14" type="stmt"/>
+        <line num="22" count="14" type="stmt"/>
+      </file>
+      <file name="makesAction.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/components/redux/actions/makesAction.js">
+        <metrics statements="15" coveredstatements="15" conditionals="1" coveredconditionals="1" methods="5" coveredmethods="5"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="32" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="33" count="3" type="stmt"/>
+        <line num="41" count="3" type="stmt"/>
+        <line num="42" count="3" type="stmt"/>
+        <line num="50" count="3" type="stmt"/>
+        <line num="51" count="9" type="stmt"/>
+      </file>
+      <file name="myDetailsAction.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/components/redux/actions/myDetailsAction.js">
+        <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+      </file>
+      <file name="vehicleAction.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/components/redux/actions/vehicleAction.js">
+        <metrics statements="15" coveredstatements="15" conditionals="1" coveredconditionals="1" methods="5" coveredmethods="5"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="32" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="33" count="3" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="3" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="51" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.redux.reducers">
+      <metrics statements="33" coveredstatements="26" conditionals="20" coveredconditionals="17" methods="5" coveredmethods="4"/>
+      <file name="index.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/components/redux/reducers/index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="6" count="8" type="stmt"/>
+      </file>
+      <file name="makesReducer.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/components/redux/reducers/makesReducer.js">
+        <metrics statements="7" coveredstatements="7" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="7" count="9" type="stmt"/>
+        <line num="14" count="9" type="cond" truecount="1" falsecount="0"/>
+        <line num="15" count="28" type="cond" truecount="4" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="23" count="25" type="stmt"/>
+      </file>
+      <file name="modelReducer.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/components/redux/reducers/modelReducer.js">
+        <metrics statements="7" coveredstatements="7" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="7" count="9" type="stmt"/>
+        <line num="14" count="9" type="cond" truecount="1" falsecount="0"/>
+        <line num="15" count="28" type="cond" truecount="4" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="23" count="25" type="stmt"/>
+      </file>
+      <file name="myDetailsReducer.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/components/redux/reducers/myDetailsReducer.js">
+        <metrics statements="11" coveredstatements="4" conditionals="5" coveredconditionals="2" methods="2" coveredmethods="1"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="12" count="8" type="cond" truecount="1" falsecount="0"/>
+        <line num="13" count="24" type="cond" truecount="1" falsecount="3"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="33" count="24" type="stmt"/>
+      </file>
+      <file name="vehicleReducer.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/components/redux/reducers/vehicleReducer.js">
+        <metrics statements="7" coveredstatements="7" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="7" count="9" type="stmt"/>
+        <line num="14" count="9" type="cond" truecount="1" falsecount="0"/>
+        <line num="15" count="28" type="cond" truecount="4" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="23" count="25" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.redux.store">
+      <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="configStore.js" path="/Users/admin/Documents/Maha_Project/my-cars/src/components/redux/store/configStore.js">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

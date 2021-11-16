@@ -1,0 +1,32 @@
+.article-class,
+.car-image {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: column;
+}
+
+.car-image {
+  overflow: hidden;
+}
+img {
+  max-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+
+.article-class {
+  border: 2px solid #f2f2f2;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 20px;
+  padding: 10px;
+}
+
+.small {
+  width: clamp(320px, 35%, 480px);
+  padding: 24px;
+}
